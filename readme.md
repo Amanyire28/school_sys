@@ -1,0 +1,1 @@
+School Mgt System Collaborated by a team of developers of different stacks coming together to test themselves with git technology and version control
